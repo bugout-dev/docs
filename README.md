@@ -1,0 +1,2 @@
+# docs
+Bugout.dev documentation
