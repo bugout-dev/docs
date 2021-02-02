@@ -6,10 +6,10 @@ Bugout provides you with knowledge bases that can automatically extract knowledg
 generate it - be it Slack, GitHub, your IDE, or your command line.
 
 Here, you will find:
-1. [Tutorials about how to set up Bugout in your IDEs and at your terminal so that you can add notes and knowledge without ever breaking your flow](#tutorials)
-2. [Guides to integrating Bugout with your Slack workspaces, GitHub organizations, and other places you generate knowledge](#integration-guides)
-3. [Recipes for how to use Bugout to help with common programming tasks](#recipes)
-4. [Guides to writing your own knowledge extractors using the Bugout API](#the-bugout-api)
+1. [Tutorials](#tutorials) about how to set up Bugout in your IDEs and at your terminal so that you can add notes and knowledge without ever breaking your flow
+2. [Guides](#guides) to integrating Bugout with your Slack workspaces, GitHub organizations, and other places you generate knowledge
+3. [Recipes](#recipes) for how to use Bugout to help with common programming tasks
+4. [References](#references) for writing your own knowledge extractors using the Bugout API
 
 This documentation largely assumes that you have already registered your Bugout.dev account.
 
@@ -36,9 +36,9 @@ repositories. We welcome issues, suggestions, and comments in general!
 
 - - -
 
-### Integration guides
-1. [Slack](https://bugout.dev/welcome/slack)
-2. [GitHub](https://bugout.dev/welcome/github)
+### Guides
+1. [Slack integration guide](https://bugout.dev/welcome/slack)
+2. [GitHub integration guide](https://bugout.dev/welcome/github)
 
 - - -
 
@@ -46,4 +46,6 @@ repositories. We welcome issues, suggestions, and comments in general!
 
 - - -
 
-### The Bugout API
+### References
+1. [Bugout Python SDK](https://github.com/bugout-dev/bugout-python)
+2. [Bugout Go SDK](https://github.com/bugout-dev/bugout-go)
