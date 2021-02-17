@@ -43,6 +43,7 @@ repositories. We welcome issues, suggestions, and comments in general!
 - - -
 
 ### Recipes
+1. [Bugout for a better command history](https://dev.to/zomglings/using-bugout-dev-to-build-a-better-command-history-ko9)
 
 - - -
 
