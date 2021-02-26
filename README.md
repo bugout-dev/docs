@@ -8,8 +8,8 @@ generate it - be it Slack, GitHub, your IDE, or your command line.
 Here, you will find:
 1. [Tutorials](#tutorials) about how to set up Bugout in your:
 - IDEs, so that you can add notes and knowledge without ever breaking your flow
-- GitHub bot to improve your work with code
-- Terminal
+- GitHub Bugout bot to improve your work with code
+- Terminal interface for work with Bugout knowledgebase directly from CLI
 2. [Guides](#guides) to integrating Bugout with your Slack workspaces, GitHub organizations, and other places you generate knowledge
 3. [Recipes](#recipes) for how to use Bugout to help with common programming tasks
 4. [References](#references) for writing your own knowledge extractors using the Bugout API
@@ -35,7 +35,7 @@ repositories. We welcome issues, suggestions, and comments in general!
 - - -
 
 ### Tutorials
-1. [Using Bugout to take notes in VSCode](./tutorials/vscode-setup.md)
+1. [Using Bugout to work with your knowledgebase in VSCode](./tutorials/vscode-setup.md)
 2. [Setup Bugout GitHub bot for your organization](./tutorials/github-bot-setup.md)
 3. [Terminal Bugout CLI for granular control over your servers](./tutorials/cli-setup.md)
 

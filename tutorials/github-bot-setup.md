@@ -57,7 +57,7 @@ jobs:
           locust.github publish
 ```
 
-Detailed infromation about locust and how he analyze your code, you can find in [Locust repository](https://github.com/bugout-dev/locust).
+Detailed information about locust and how he analyze your code, you can find in [Locust repository](https://github.com/bugout-dev/locust).
 
 After completing all the steps, you will be able to see an organized entry with description, commits, comments and a short summary of the changes inside the code for each Pull Request or Issue thread in [Bugout journal for your GitHub](https://bugout.dev/journals).
 
@@ -71,7 +71,7 @@ At the moment, two commands are available for the Bugout GitHub bot:
 
 Locust provides a semantic layer on top of git diff. It emits metadata describing AST-level changes to your code base between git revisions.
 
-If you want to recieve summary about your code, use command in Pull Request comments:
+If you want to receive summary about your code, use command in Pull Request comments:
 ```
 @bugout-dev summarize
 ```

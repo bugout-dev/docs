@@ -56,7 +56,7 @@ We have an entry https://bugout.dev/57125fa9-6ba5-4bb2-9fc2-d1e27b18e4a2/c9b95a8
 
 <img src="../img/bugout-entry-template.png"/>
 
-Prepare bash scriptm [full version of nmap-target.sh here](./scripts/nmap-target.sh)
+Prepare bash script, [full version of nmap-target.sh here](./scripts/nmap-target.sh)
 
 Import and process data about target from our previously created entry:
 ```bash
